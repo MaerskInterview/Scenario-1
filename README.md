@@ -1,5 +1,11 @@
 # Scenario-1
 
+Build and Deployment with YAML Format:
+
+![image](https://user-images.githubusercontent.com/33865083/124263575-1240c280-db51-11eb-8d78-6c6981b9f2c7.png)
+
+
+
 Enable Continuous integration within the triggers section of the pipelines.
 
 ![image](https://user-images.githubusercontent.com/33865083/124111440-ebb65500-da86-11eb-9eae-9ac5a221147b.png)
